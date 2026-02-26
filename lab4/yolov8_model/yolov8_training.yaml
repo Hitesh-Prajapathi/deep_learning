@@ -1,0 +1,7 @@
+names:
+- negative
+- positive
+nc: 2
+path: /Users/hiteshprajapathi/Desktop/brain_tumor/brain_tumor_subset
+train: images/train
+val: images/val
